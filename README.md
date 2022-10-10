@@ -1,7 +1,7 @@
 ### Olá! Eu sou o joaopedrojardim 👋
 
 - 🖥 trabalhando com front-end
-- 📱 Estudando PHP / GIT
+- 📱 Estudando JavaScript
 - 💬 Contate-me: joaopedrocjardim@gmail.com 
 
 <div>
